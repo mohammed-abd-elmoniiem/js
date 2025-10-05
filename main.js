@@ -167,7 +167,7 @@
 
 
 
-    // Q-15
+// Q-15
 
 // do{
 //     var month = +window.prompt('enter the month number');
@@ -201,6 +201,8 @@
 //         console.log('wrong input')
     
 // }    
+
+
 
 // Q-16
 // var letter = window.prompt('enter a letter');
@@ -236,7 +238,11 @@
 //     default:
 //         console.log('wrong input');
 //         break;
+
 // }
+
+
+
 
 // Q-18
 // var num = +window.prompt('enter a number');
@@ -252,6 +258,8 @@
 //         console.log('wrong input');
 //         break;
 // }
+
+
 
 
 
@@ -271,6 +279,9 @@
 //         console.log('wrong input');
 //         break;
 // }
+
+
+
 
 
 // Q-20
